@@ -340,6 +340,10 @@ section.experience {
   margin-right: 1rem;
 }
 
+.experiencia__botao--repo:hover {
+  cursor: pointer;
+}
+
 .experience__botao--demo {
   background: #2a7ae4;
   border: 1px solid #2a7ae4;
@@ -348,6 +352,10 @@ section.experience {
   font-weight: 400;
   font-size: 1rem;
   line-height: 1.1875rem;
+}
+
+.experience__botao--demo {
+  cursor: pointer;
 }
 
 /*Contacto*/
@@ -449,6 +457,10 @@ section.formcontato {
   font-weight: 400;
   font-size: 1rem;
   line-height: 1.1875rem;
+}
+
+.formcontato__botao:hover {
+  cursor: pointer;
 }
 
 /*footeer*/
