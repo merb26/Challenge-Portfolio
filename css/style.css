@@ -74,6 +74,11 @@ section.menu {
   margin: 0 var(--espacio-laterales);
 }
 
+.title__profile {
+  width: 368px;
+  height: 368px;
+}
+
 .title__container {
   max-width: 751px;
 }
